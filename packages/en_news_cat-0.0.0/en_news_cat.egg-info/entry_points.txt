@@ -1,0 +1,2 @@
+[spacy_models]
+en_news_cat = en_news_cat
